@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Prompt Command Center",
+  "description": "An advanced AI prompt engineering environment to create, manage, and test prompts with Gemini. Features a prompt library, dynamic variables, multi-modal support, and detailed model configuration.",
+  "requestFramePermissions": []
+}
